@@ -1,11 +1,14 @@
 
 ### Hi there! I'm Brahmajyoti 👋
 
-I am a **Full Stack Developer** passionate about **Artificial Intelligence** and **Large Language Models**.
 
-- 🔭 I’m currently working on **Integrating Llama-3 into React Apps**
-- 🌱 I’m currently learning **LangChain & Vector Databases**
-- 💬 Ask me about **Python, MERN Stack, and Transformer Architecture**
+Full Stack Developer | JavaScript • Python | MERN | AI & LLM Integrations
+
+Working on AI-powered full-stack apps
+
+Learning LangChain & Vector Databases
+
+Skilled in React • Node • MongoDB • Express • Tailwind • Clerk • Inngest
 
 #### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
